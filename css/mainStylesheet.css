@@ -1,0 +1,78 @@
+.pageBorder{
+    width: 1920px;
+    height: 1243px;
+}
+h1{
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 614px;
+    height: 84px;
+    top: 24px;
+    left: 653px;
+}
+.firstFrame{
+    width: 565px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    background-color: #FFE8E8;
+}
+#firstParag{
+    color: #F00;
+    font-family: "Lato";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#secondParag{
+    color: #85647B;
+    text-align: center;
+    font-family: "Lato";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.secondFrame{
+    width: 1023px;
+    height: 144px;
+    flex-shrink: 0;
+}
+.firstInnerFrame{
+    display: flex;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border-top: 2px solid #00C76E;
+}
+.secondInnerFrame{
+    display: flex;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid #7F56D9;
+}
+.thirdInnerFrame{
+    display: flex;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border-left: 4px solid #C11574;
+}
+.fourthInnerFrame{
+    display: flex;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    grid-area: 10px;
+    border-right: 6px solid #05F;
+}
