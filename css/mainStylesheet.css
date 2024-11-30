@@ -1,4 +1,4 @@
-.pageBorder{
+body{
     width: 1920px;
     height: 1243px;
 }
@@ -76,3 +76,57 @@ h1{
     grid-area: 10px;
     border-right: 6px solid #05F;
 }
+.thirdFrame{
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    background-color: #FFE8E8;
+}
+#thirdParag{
+    color: #414651;
+    width: 943px;
+    height: 85px;
+    font-family: "Lato";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#sale{
+    color: #FF4405;
+    font-family: "Lato";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+}
+.lastFrame{
+    display: flex;
+    width: 1069px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border: 2p solid #3538CD;
+}
+#lastParag{
+    color: #0064CE;
+    width: 989px;
+    height: 38px;
+    text-align: right;
+    font-family: "Lato";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#image{
+    width: 556px;
+    height: 347px;
+    top: 774px;
+    left: 32px;    
+}
+
